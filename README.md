@@ -3,7 +3,7 @@ NSW School Gradebook
 
 access it here: https://sapphire-edu.github.io
 
-#Preview
+# Preview
 
 Dark Mode:
 <img width="1423" height="1132" alt="Screenshot 2026-02-07 at 9 04 13 pm" src="https://github.com/user-attachments/assets/ed13b8d2-1839-4e0a-8e85-30797e11e41a" />
