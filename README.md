@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img width="96" height="96" alt="favicon" src="https://github.com/user-attachments/assets/f580e616-93c8-40d6-9b87-45bec5ec0ffa" />
+  <img width="24" height="24" alt="favicon" src="https://github.com/user-attachments/assets/f580e616-93c8-40d6-9b87-45bec5ec0ffa" />
   Sapphire
 </h1>
 
