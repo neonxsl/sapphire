@@ -3,8 +3,9 @@
   Sapphire
 </h1>
 
-Sapphire is a lightweight, client-side gradebook designed for NSW high school students. It runs entirely in the browser and stores data locally on your device (no server required), helping you track s[...]
+Sapphire is a lightweight gradebook designed for NSW high school students. 
 
 Access it here: https://app.sapphire.neonxsl.dev/
-Code: https://github.com/sapphire-edu/sapphire-edu.github.io
+
+Code: https://github.com/sapphire-edu/sapphire-app
 
