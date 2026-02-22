@@ -5,7 +5,7 @@
 
 Sapphire is a lightweight gradebook designed for NSW high school students. 
 
-Access it here: https://app.sapphire.neonxsl.dev/
+Access it here: https://sapphire.neonxsl.dev
 
 Code: https://github.com/sapphire-edu/sapphire-app
 
